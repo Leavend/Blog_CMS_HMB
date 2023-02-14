@@ -66,7 +66,9 @@
     "pages/_app.tsx",
     "pages/_app.tsx",
     "pages/_document.js",
-    "pages/_document.js"
+    "pages/_document.js",
+    "util.jsx",
+    "util.jsx"
   ],
   "exclude": ["node_modules"]
 }

@@ -18,7 +18,15 @@ const Header = () => {
       <div className="border-b w-full inline-block border-blue-400 py-8">
         <div className="md:float-left block">
           <Link href="/">
-            <span className="cursor-pointer font-bold text-4xl text-white">HMB Testing Blog</span>
+            <span className="cursor-pointer font-bold text-4xl text-white">
+              <img 
+                alt='Himpunan Mahasiswa Bontang - Official Web'
+                height='145px'
+                width='820px'
+                src='//4.bp.blogspot.com/-seYZldkOzs4/UbUrO8PB1SI/AAAAAAAAALk/hNZbDwfnfXs/s820/HEADER%2BHMB%2Bcopy.png'
+                className='block'
+              />
+            </span>
           </Link>
         </div>
         <div className="hidden md:float-left md:contents">

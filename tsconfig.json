@@ -63,8 +63,8 @@
     "pages/post/[slug].js",
     "pages/index.js",
     "pages/index.js",
-    "pages/_app.js",
-    "pages/_app.js",
+    "pages/_app.tsx",
+    "pages/_app.tsx",
     "pages/_document.js",
     "pages/_document.js"
   ],
